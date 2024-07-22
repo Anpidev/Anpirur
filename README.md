@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌️, I'm Angela</h1>
 <h3 align="center">A passionate web developer from Spain</h3>
 
-- 📫 How to reach me **angelaruizdev@gmail.co**
+- 📫 How to reach me **angelaruizdev@gmail.com**
 
 - 🎓 Know about my experiences [https://www.linkedin.com/in/angela2r/](https://www.linkedin.com/in/angela2r/)
 
